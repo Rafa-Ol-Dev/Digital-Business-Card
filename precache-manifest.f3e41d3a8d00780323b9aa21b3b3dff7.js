@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "49f22de4eeeb9ed8768d",
+    "revision": "823e748329740d824b1b",
     "url": "/digital-business-card/static/css/main.6af0cc04.chunk.css"
   },
   {
-    "revision": "49f22de4eeeb9ed8768d",
-    "url": "/digital-business-card/static/js/main.49f22de4.chunk.js"
+    "revision": "823e748329740d824b1b",
+    "url": "/digital-business-card/static/js/main.823e7483.chunk.js"
   },
   {
     "revision": "2c654338267428580a8f",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/digital-business-card/static/media/small-pic.c6495dd8.jpeg"
   },
   {
-    "revision": "8b5c9a9172689b43fe2c19c0ae37cb0c",
+    "revision": "7a9919ad5836bec9a4c19746864b2552",
     "url": "/digital-business-card/index.html"
   }
 ];
