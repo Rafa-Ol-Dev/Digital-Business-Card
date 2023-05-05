@@ -9,13 +9,13 @@ export default function Main() {
         <h1>Rafael Oliveira</h1>
         <h3>Desenvolvedor Frontend</h3>
         <div className="botoes">
-          <a href="#" className="botao-email">
+          <a href="mailto:rafaoldev@gmail.com" className="botao-email">
             <span className="icone">
               <img src={Mail}></img>
             </span>
             <span className="texto-botao-1">Email</span>
           </a>
-          <a href="#" className="botao-linkedin">
+          <a href="https://www.linkedin.com/in/rafaelrdeoliveira/" className="botao-linkedin">
             <span className="icone">
               <img src={LinkedIn}></img>
             </span>
