@@ -11,13 +11,13 @@ export default function Main() {
         <div className="botoes">
           <a href="mailto:rafaoldev@gmail.com" className="botao-email">
             <span className="icone">
-              <img src={Mail}></img>
+              <img src={Mail} alt="ícone de envelope"></img>
             </span>
             <span className="texto-botao-1">Email</span>
           </a>
           <a href="https://www.linkedin.com/in/rafaelrdeoliveira/" className="botao-linkedin">
             <span className="icone">
-              <img src={LinkedIn}></img>
+              <img src={LinkedIn} alt="ícone do LinkedIn"></img>
             </span>
             <span className="texto-botao-2">LinkedIn</span>
           </a>
