@@ -1,14 +1,14 @@
 {
-  "main.css": "/digital-business-card/static/css/main.6af0cc04.chunk.css",
-  "main.js": "/digital-business-card/static/js/main.823e7483.chunk.js",
-  "main.js.map": "/digital-business-card/static/js/main.823e7483.chunk.js.map",
+  "main.css": "/digital-business-card/static/css/main.c76cb4a6.chunk.css",
+  "main.js": "/digital-business-card/static/js/main.45a9f759.chunk.js",
+  "main.js.map": "/digital-business-card/static/js/main.45a9f759.chunk.js.map",
   "static/js/1.2c654338.chunk.js": "/digital-business-card/static/js/1.2c654338.chunk.js",
   "static/js/1.2c654338.chunk.js.map": "/digital-business-card/static/js/1.2c654338.chunk.js.map",
   "runtime~main.js": "/digital-business-card/static/js/runtime~main.2ac6fa47.js",
   "runtime~main.js.map": "/digital-business-card/static/js/runtime~main.2ac6fa47.js.map",
-  "static/media/small-pic.jpeg": "/digital-business-card/static/media/small-pic.c6495dd8.jpeg",
-  "static/css/main.6af0cc04.chunk.css.map": "/digital-business-card/static/css/main.6af0cc04.chunk.css.map",
+  "static/media/foto.png": "/digital-business-card/static/media/foto.a093fbcd.png",
+  "static/css/main.c76cb4a6.chunk.css.map": "/digital-business-card/static/css/main.c76cb4a6.chunk.css.map",
   "index.html": "/digital-business-card/index.html",
-  "precache-manifest.f3e41d3a8d00780323b9aa21b3b3dff7.js": "/digital-business-card/precache-manifest.f3e41d3a8d00780323b9aa21b3b3dff7.js",
+  "precache-manifest.070fbc487c6d95e531a0d1ff854f8460.js": "/digital-business-card/precache-manifest.070fbc487c6d95e531a0d1ff854f8460.js",
   "service-worker.js": "/digital-business-card/service-worker.js"
 }
